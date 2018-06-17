@@ -1,0 +1,18 @@
+3	Sam
+4	Dwayne
+3	Sam
+8	Sam
+12	Dwayne
+15	Dwayne
+3	Sam
+3	Sam	
+13	Sam
+15	Sam
+2	Sam
+2	Dwayne
+4	Sam
+2	Sam
+15	James
+1	Sam Jothimuthu
+19	Sam
+35	Sam
